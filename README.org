@@ -1,4 +1,4 @@
-#+title: Exercise Repo of  FullStackOpen
+#+title: Exercise Repo of [[https://fullstackopen.com/][FullStackOpen]]
 
 * What is FullStackOpen?
 - *"Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go!"*
