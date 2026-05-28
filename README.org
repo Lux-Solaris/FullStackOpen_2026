@@ -1,0 +1,9 @@
+#+title: Exercise Repo of  FullStackOpen
+
+* What is FullStackOpen?
+- *"Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go!"*
+- A course to learn about modern JavaScript-based web development.
+- The website of fullstackopen is [[https://fullstackopen.com/][here]].
+
+* What is this repo for?
+- My submissions of the exercises of the course are here.
